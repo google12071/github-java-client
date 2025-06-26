@@ -1,1 +1,1 @@
-public class GHAsset {}
+public class HelloWorld {}
